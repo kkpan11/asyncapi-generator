@@ -8,7 +8,7 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "commitConvention": "none",
+  "commitConvention": "angular",
   "contributors": [
     {
       "login": "fmvilas",
@@ -166,6 +166,63 @@
       "profile": "https://github.com/swastiksuvam55",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "GavinZhengOI",
+      "name": "GavinZhengOI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33168669?v=4",
+      "profile": "https://blog.orzzh.icu/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "lmgyuan",
+      "name": "lmgyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16447041?v=4",
+      "profile": "https://github.com/lmgyuan",
+      "contributions": [
+        "doc",
+        "bug",
+        "code",
+        "ideas",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "pierrick-boule",
+      "name": "pierrick-boule",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3237116?v=4",
+      "profile": "https://github.com/pierrick-boule",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    },
+    {
+      "login": "DhairyaMajmudar",
+      "name": "Dhairya Majmudar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124715224?v=4",
+      "profile": "https://dhaiyra-majmudar.netlify.app/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Gmin2",
+      "name": "Mintu Gogoi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127925465?v=4",
+      "profile": "https://github.com/Gmin2",
+      "contributions": [
+        "bug",
+        "code",
+        "ideas",
+        "doc",
+        "review",
+        "test"
       ]
     }
   ],
